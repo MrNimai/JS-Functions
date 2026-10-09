@@ -5,3 +5,6 @@ function OffTheFan() {
     console.log("swich er kache jaaa");
     console.log("Swich e guta mar ");
 }
+
+OffTheFan();
+    

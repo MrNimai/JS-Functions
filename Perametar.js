@@ -1,6 +1,6 @@
-function Squre(number) {
-    const Squre = number * number;
-console.log(Squre);
+function Square(number) {
+    const square = number * number;
+    console.log(square);
 }
 
-Squre(5); 
+Square(5); 
